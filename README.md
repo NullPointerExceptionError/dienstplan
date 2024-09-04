@@ -3,14 +3,14 @@
 Dieses Programm ist ein Dienstplan-Generator, speziell ein Messdienerplan-Generator.
 
 ## Installation
-Release herunterladen
+Neueste Version unter [Releases](https://github.com/NullPointerExceptionError/dienstplan/releases/) herunterladen (`dienstplan_generator_vX.Y.zip`) und Ordner entpacken
 
 ## Hinweise zur Benutzung
 ### Benutzung
 1. Einzuteilende Personen in `personenliste.txt` schreiben (nur bei erster Benutzung oder Änderungen)
 2. Termine (Daten & Uhrzeiten), Anlass und Anzahl einzuteilender Personen für den Plan in `daten.txt` schreiben
 3. Termine, an denen Personen nicht können in `terminausnahmen.txt` schreiben
-4. `dienstplan.exe` ausführen
+4. `dienstplan.exe` ausführen (beim ersten Starten unter Windows kommt eine blaue Sicherheitswarnung. Dort auf "Weitere Informationen" und dann auf "Trotzdem ausführen" klicken)
 5. Falls ein Plan generiert werden konnte, werden die Häufigkeiten der Einteilungen je Nachname angezeigt. Hinweise und Fehlermeldungen werden ebenfalls angezeigt
 6. Programm kann mit `Strg`+`C` oder Schließen des Fensters beendet werden
 
