@@ -1,0 +1,20 @@
+03.03.2024	11.00	Hl. Messe	4
+10.03.2024	11.00	Hl. Messe	4
+17.03.2024	11.00	Hl. Messe	4
+24.03.2024	11.00	Hl. Messe/\nPalmsonntag	3
+28.03.2024	19.00	Gruendonnerstags-\nliturgie	6
+30.03.2024	21.00	Osternacht	4
+31.03.2024	11.00	Festhochamt/\nOstersonntag	4
+01.04.2024	11.00	Hl. Messe/\nOstermontag	3
+05.04.2024	10.45	Probe\nErstkommunion	5
+14.04.2024	11.00	Hl. Messe	4
+21.04.2024	11.00	Hl. Messe	4
+28.04.2024	11.00	Hl. Messe	4
+05.05.2024	11.00	Hl. Messe	4
+09.05.2024	11.00	Hl. Messe/\nChristi Himmelfahrt	4
+12.05.2024	11.00	Hl. Messe	3
+19.05.2024	11.00	Festhochamt/\nPfingstsonntag	4
+20.05.2024	11.00	Hl. Messe/\nPfingstmontag	3
+26.05.2024	11.00	Hl. Messe	4
+30.05.2024	11.00	Hl. Messe/\nFronleichnam	0
+02.06.2024	11.00	Hl. Messe	3
